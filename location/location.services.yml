@@ -1,0 +1,4 @@
+services:
+  location_date.time:
+    class: Drupal\location\Service\Location
+    arguments: []
